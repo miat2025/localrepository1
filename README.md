@@ -1,5 +1,3 @@
-# localrepository1
+# Lab
 
-This is another git demo. 
-<br>
-Author: Mia Takahashi
+A simple CSS program.
